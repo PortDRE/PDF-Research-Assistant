@@ -200,6 +200,7 @@ Streamlit Interface
 ## Home Screen
 
 Upload PDF documents directly from your browser.
+<img width="1920" height="1011" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c399ad21-71d3-4a77-8633-49544d65900b" />
 
 ---
 
