@@ -311,12 +311,12 @@ Analyze contracts and policy documents.
 
 # 👩‍💻 Author
 
-**Devanshi Das**
+**Eshaan Dev Raj**
 
 Electronics & Communication Engineering Student
 AI • Machine Learning • Intelligent Systems
 
-📧 [dasdevanshi7@gmail.com](mailto:dasdevanshi7@gmail.com)
+📧 [eshaandev2003@gmail.com](mailto:eshaandev2003@gmail.com)
 
 ---
 
