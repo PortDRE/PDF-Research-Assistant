@@ -597,5 +597,5 @@ st.divider()
 
 st.markdown("## 📩 Contact Me")
 st.markdown(
-    "[✉️ Send Email](mailto:dasdevanshi7@gmail.com)"
+    "[✉️ Send Email](mailto:eshaandev2003@gmail.com)"
 )
