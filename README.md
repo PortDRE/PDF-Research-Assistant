@@ -230,7 +230,7 @@ and instantly generate AI-powered insights.
 ```text
 pdf-research-assistant/
 │
-├── app.py
+├── app2.py
 ├── document_data.db
 ├── requirements.txt
 │
@@ -313,8 +313,6 @@ Analyze contracts and policy documents.
 
 **Eshaan Dev Raj**
 
-Electronics & Communication Engineering Student
-AI • Machine Learning • Intelligent Systems
 
 📧 [eshaandev2003@gmail.com](mailto:eshaandev2003@gmail.com)
 
